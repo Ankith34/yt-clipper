@@ -2,6 +2,8 @@
 
 # 🎬 yt-clipper
 
+<p><strong><span style="color:red">⚠️ This project's live demo has been taken down by YouTube and is no longer working.</span></strong></p>
+
 ### Cobalt-Style YouTube Video Downloader & Clipper
 
 A Flask web app that fetches a YouTube video, lets you pick a quality and an exact time range, and hands back a clean, streamable `.mp4` clip — powered by `yt-dlp` and `ffmpeg`, with async background job processing.
