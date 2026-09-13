@@ -2,7 +2,7 @@
 
 # 🎬 yt-clipper
 
-<p><strong><span style="color:red">⚠️ This project's live demo has been taken down by YouTube and is no longer working.</span></strong></p>
+<p><strong><span style="color:red">⚠️The application is live, but there’s an issue that needs to be fixed.</span></strong></p>
 
 ### Cobalt-Style YouTube Video Downloader & Clipper
 
